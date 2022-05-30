@@ -2,9 +2,9 @@
 name: CustomTools
 api: 4.0.0
 main: Customtools\Blood\Main
-version: 1.0
+version: 2.0
 author: Bloodsucker
-description: "A plugin that adds custom tools with several ability in your server 
+description: "A plugin that adds custom tools with several ability in your server!
 
 permissions:
   cmd.ctools.use:
