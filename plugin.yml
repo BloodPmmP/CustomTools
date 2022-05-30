@@ -1,10 +1,10 @@
 ---
-name: CustomToolss
+name: CustomTools
 api: 4.0.0
 main: Customtools\Blood\Main
-version: 1.0.0
+version: 1.0
 author: Bloodsucker
-description: Added Custom Pickeaxes 
+description: "A plugin that adds custom tools with several ability in your server 
 
 permissions:
   cmd.ctools.use:
